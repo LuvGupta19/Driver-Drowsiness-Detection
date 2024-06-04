@@ -9,7 +9,7 @@ we determine whether the eyes are open or they are closed.</br></br>
 <h3>The working of the project</h3>
 <ul><li>As you can see the<b> above screenshot</b> where the landmarks aredetected using the detector.
 <li>Now we are taking the ratio which is described as <i>'Sum of distances of vertical landmarks divided by twice the distance between horizontal landmarks'</i>.
-<li>Now this ratio is totally dependent on your system which you may configure accordingly for the thresholds of sleeping, drowsy, active.</ul>
-![image](https://github.com/LuvGupta19/Driver-Drowsiness-Detection/assets/61205816/c0669143-f846-4697-87ad-71e85ff67b63)
+<li>Now this ratio is totally dependent on your system which you may configure accordingly for the thresholds of drowsy, active.</ul>
+
 
 
